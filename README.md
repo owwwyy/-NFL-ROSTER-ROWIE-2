@@ -1,5 +1,4 @@
 # -NFL-ROSTER-ROWIE-2
-# NFL-ROSTER-ROWIE
 ## Antdroid/Minotauri NFL Roster for 2017-18 Season
 ## version 1.50 (09-15-2017)
 ##Changelog
